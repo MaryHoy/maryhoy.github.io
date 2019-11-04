@@ -1,0 +1,23 @@
+body {
+  padding-top: 50px;
+}
+.my-class {
+  background-color: #6adcf0;
+  border: none;
+  color: #fff;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.6s;
+  cursor: pointer;
+  background-color: #fff;
+  color: #000;
+  border: 2px solid #00f;
+}
+.my-class:hover {
+  background-color: #00f;
+  color: #fff;
+}
